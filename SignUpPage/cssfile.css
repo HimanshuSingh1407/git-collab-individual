@@ -1,0 +1,24 @@
+form{
+    width: 30%;
+    margin: auto;
+    background-color: white;
+    /* border: 1px solid red; */
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 40px;
+}
+h1,h3{
+    text-align: center;
+}
+input{
+    width: 100%;
+    padding: 10px 0px 10px 0px;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+label{
+    padding-bottom: 30px;
+}
+a{
+    text-decoration: none;
+    margin-left: 5px;
+}
